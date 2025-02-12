@@ -8,4 +8,4 @@ Since we could only use one type of runtime, we split our Exploratory Data Analy
  
 
 Generative AI Declaration:
-- Use of ChatGPT to learn how to code out ARIMAx model and SVR model
+- Use of ChatGPT to learn how to code out ARIMAx model and SVR model and plotting of graphs
