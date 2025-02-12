@@ -7,3 +7,5 @@ Since we could only use one type of runtime, we split our Exploratory Data Analy
 3. NUS_DSESC_DATABUSTERS_29_ML.rmd: RMarkdown with ML methods for further analysis (knitted HTML also available)
  
 
+Generative AI Declaration:
+- Use of ChatGPT to learn how to code out ARIMAx model
